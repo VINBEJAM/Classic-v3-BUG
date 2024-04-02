@@ -15,12 +15,12 @@
 
 # ```Bot Info```
 <p align="center">
-<a href="https://github.com/Samue-l1/followers"><img title="Followers" src="https://img.shields.io/github/followers/Samue-l1?color=red&style=flat-square"></a>
-<a href="https://github.com/Samue-l1/Classic-v3-BUG/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Samue-l1/Classic-v3-BUG?color=blue&style=flat-square"></a>
-<a href="https://github.com/Samue-l1/Classic-v3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Samue-l1/Classic-v3-BUG?color=red&style=flat-square"></a>
-<a href="https://github.com/Samue-l1/Classic-v3-BUG/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Samue-l1/Classic-v3-BUG?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Samue-l1/Classic-v3-BUG"><img title="Open Source" src="https://img.shields.io/badge/Author-Classic%20Bot%20Inc.-red?v=103"></a>
-<a href="https://github.com/Samue-l1/Classic-v3-BUG/"><img title="Size" src="https://img.shields.io/github/repo-size/Samue-l1/Classic-v3-BUG?style=flat-square&color=green"></a>
+<a href="https://github.com/vinbejam-l1/followers"><img title="Followers" src="https://img.shields.io/github/followers/vinbejam-l1?color=red&style=flat-square"></a>
+<a href="https://github.com/vinbejam-l1/Classic-v3-BUG/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/vinbejam.-l1/Classic-v3-BUG?color=blue&style=flat-square"></a>
+<a href="https://github.com/vinbejam-l1/Classic-v3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/vinbejam-l1/Classic-v3-BUG?color=red&style=flat-square"></a>
+<a href="https://github.com/vinbejam-l1/Classic-v3-BUG/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/vinbejam-l1/Classic-v3-BUG?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/vinbejam-l1/Classic-v3-BUG"><img title="Open Source" src="https://img.shields.io/badge/Author-Classic%20Bot%20Inc.-red?v=103"></a>
+<a href="https://github.com/Samue-l1/Classic-v3-BUG/"><img title="Size" src="https://img.shields.io/github/repo-size/vinbejam-l1/Classic-v3-BUG?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Samue-l1%2FClassic-v3-BUG&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/Samue-l1/Classic-v3-BUG/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
@@ -35,16 +35,14 @@
 <a href="https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk"><img src="https://img.shields.io/badge/WhatsApp ?style=for-the-badge&logo=whatsapp&logoColor=white&link=httpshttps://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk" /><br>
 
 
-## ```Bot Support Group Chats```
-
-- [`1st GC`](https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk)
+## ```Bot S)
 - 
 
 
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/Samue-l1/Classic-v3-BUG/fork)
+- FORK THE REPOSITORY [Here](https://github.com/Vinbejam1/Classic-v3-BUG/fork)
 
 ## `Generate Pair Code For Session`
 [![Xeon](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@pesguru02/Pairing-Classic-Ai)
@@ -57,7 +55,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Samue-l1/Classic-v3-BUG/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vinbejam1-l1/Classic-v3-BUG/)
 
 ```
 ## `For Termux/Ssh/Ubuntu`
